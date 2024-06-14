@@ -1,6 +1,6 @@
 Segunda version - main - linea 1.
 Segunda version - main - linea 2.
-Segunda version - main - linea 3.
-Tercera version - main - linea 4.
-Tercera version - main - linea 5.
+Septima version - main - linea 3.
+Septima version - main - linea 4.
+Septima version - main - linea 5.
 
