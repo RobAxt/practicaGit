@@ -1,6 +1,6 @@
 Segunda version - main - linea 1.
 Segunda version - main - linea 2.
-Segunda version - main - linea 3.
-Segunda version - main - linea 4.
+Sexta version - branch - linea 3.
+Sexta version - branch - linea 4.
 Segunda version - main - linea 5.
 
